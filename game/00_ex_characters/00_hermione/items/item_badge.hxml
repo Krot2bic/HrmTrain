@@ -4,7 +4,7 @@
 	<key>badge</key>
 
 	<style name="default">
-		<frame>badge.png</frame>
+		<frame>badges/spew.png</frame>
 		<folder>clothes</folder>
 		<parent>dress</parent>
 		<zorder>dress+1</zorder>

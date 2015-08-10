@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>garterbelt_french_maid</key>
+
+	<style name="default">
+		<frame>garterbelt/french_maid_garter_belt.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>panties-1</zorder>
+		<parent></parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist></hidelist>
+		<actions></actions>
+	</style>
+</item>

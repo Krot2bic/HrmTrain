@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>corset_red</key>
+
+	<style name="default">
+		<frame>belly/corset_red.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress-1</zorder>
+		<parent></parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist></hidelist>
+		<actions></actions>
+	</style>	
+</item>

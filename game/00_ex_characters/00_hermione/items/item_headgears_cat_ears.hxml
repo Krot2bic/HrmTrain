@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>headgears_cat_ears</key>
+
+	<style name="default">
+		<frame>headgears/cat_ears.png</frame>
+		<folder>clothes</folder>
+		<zorder>headwear</zorder>
+	</style>
+</item>

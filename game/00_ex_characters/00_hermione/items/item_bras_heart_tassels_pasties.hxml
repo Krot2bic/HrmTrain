@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>bras_heart_tassels_pasties</key>
+
+	<style name="default">
+		<frame>bras/heart_tassels_pasties.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>tits+1</zorder>
+		<parent>tits</parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist>
+			<item>tits</item>
+		</hidelist>
+		<actions></actions>
+	</style>
+</item>

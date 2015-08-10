@@ -4,7 +4,7 @@
 	<key>dress</key>
 
 	<style name="default">
-		<frame>dress_normal.png</frame>
+		<frame>shirts/dress_normal.png</frame>
 		<folder>clothes</folder>
 		<visible>1</visible>
 		<zorder>dress</zorder>
@@ -55,11 +55,11 @@
 		</actions>
 	</style>
 	<style name="with_lifted_skirt">
-		<frame>dress_lifted_skirt.png</frame>
+		<frame>shirts/dress_lifted_skirt.png</frame>
 		<folder>clothes</folder>
 	</style>	
 	<style name="sperm_dried">
-		<frame>dress_normal_sd.png</frame>
+		<frame>shirts/dress_normal_sd.png</frame>
 		<folder>clothes</folder>
 	</style>
 </item>

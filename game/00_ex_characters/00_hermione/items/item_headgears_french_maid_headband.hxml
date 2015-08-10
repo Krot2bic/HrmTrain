@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>headgears_french_maid_headband</key>
+
+	<style name="default">
+		<frame>headgears/french_maid_headband.png</frame>
+		<folder>clothes</folder>
+		<zorder>headwear</zorder>
+	</style>
+</item>

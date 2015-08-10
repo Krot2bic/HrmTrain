@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>necklace_choker_with_decoration</key>
+
+	<style name="default">
+		<frame>necklace/choker_with_decoration.png</frame>
+		<folder>clothes</folder>
+		<parent></parent>
+		<zorder>dress-1</zorder>
+		<hidelist></hidelist>
+	</style>
+</item>

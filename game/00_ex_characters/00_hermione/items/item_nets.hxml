@@ -4,7 +4,7 @@
 	<key>nets</key>
 
 	<style name="default">
-		<frame>nets.png</frame>
+		<frame>stockings/nets.png</frame>
 		<folder>clothes</folder>
 		<parent>legs</parent>
 		<zorder>legs+1</zorder>

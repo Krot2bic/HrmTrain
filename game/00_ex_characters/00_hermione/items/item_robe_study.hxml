@@ -4,7 +4,7 @@
 	<key>robe</key>
 
 	<style name="default">
-		<frame>robe.png</frame>
+		<frame>mantles/gryffindor/house_closed.png</frame>
 		<folder>clothes</folder>
 		<visible>1</visible>
 		<zorder>dress+1</zorder>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>handwear_egyptian_shackles</key>
+
+	<style name="default">
+		<frame>handwear/egyptian_wrist_shackles.png</frame>
+		<folder>clothes</folder>
+		<parent></parent>
+		<zorder>dress+1</zorder>
+		<hidelist></hidelist>
+	</style>
+</item>

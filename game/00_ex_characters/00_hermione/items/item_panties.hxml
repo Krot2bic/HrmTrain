@@ -4,12 +4,25 @@
 	<key>panties</key>
 
 	<style name="default">
-		<frame>panties_normal.png</frame>
+		<frame>panties/white.png</frame>
 		<folder>clothes</folder>
 		<zorder>panties</zorder>
 	</style>
+
 	<style name="shifted">
-		<frame>panties_shifted.png</frame>
+		<frame>panties/white_shifted.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="lowered">
+		<frame>panties/white_lowered.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="tights">
+		<frame>panties/white_around_tights.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="knees">
+		<frame>panties/white_around_knees.png</frame>
 		<folder>clothes</folder>
 	</style>
 </item>

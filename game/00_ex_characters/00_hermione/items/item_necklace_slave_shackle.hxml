@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>necklace_slave_shackle</key>
+
+	<style name="default">
+		<frame>necklace/slave_shackle.png</frame>
+		<folder>clothes</folder>
+		<parent></parent>
+		<zorder>dress+1</zorder>
+		<hidelist></hidelist>
+	</style>
+</item>

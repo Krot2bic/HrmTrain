@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>mantles_gryffindor</key>
+
+	<style name="default">
+		<frame>mantles/gryffindor/house_closed.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress+2</zorder>
+		<parent>body</parent>
+		<hidelist></hidelist>
+	</style>
+  
+	<style name="narrow">
+		<frame>mantles/gryffindor/house_narrow_gap.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="medium">
+		<frame>mantles/gryffindor/house_medium_gap.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="wide">
+		<frame>mantles/gryffindor/house_wide_gap.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="open">
+		<frame>mantles/gryffindor/house_open.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="undressed">
+		<frame>mantles/gryffindor/house_undressed.png</frame>
+		<folder>clothes</folder>
+	</style>
+</item>

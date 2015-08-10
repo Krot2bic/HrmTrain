@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>bras_bondage_tit_belt</key>
+
+	<style name="default">
+		<frame>bras/bondage_tit_belt.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>tits+1</zorder>
+		<parent>tits</parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist>
+		</hidelist>
+		<actions></actions>
+	</style>
+</item>

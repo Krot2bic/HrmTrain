@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>bras_turquoise</key>
+
+	<style name="default">
+		<frame>bras/turquoise.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>tits+1</zorder>
+		<parent>tits</parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist>
+			<item>tits</item>
+		</hidelist>
+		<actions></actions>
+	</style>
+</item>

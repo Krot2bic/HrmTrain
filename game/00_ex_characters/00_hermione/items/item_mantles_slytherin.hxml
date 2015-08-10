@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>mantles_slytherin</key>
+
+	<style name="default">
+		<frame>mantles/slytherin/house_closed.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress+2</zorder>
+		<parent>body</parent>
+		<hidelist></hidelist>
+	</style>
+  
+	<style name="gap">
+		<frame>mantles/slytherin/house_gap.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="undressed">
+		<frame>mantles/slytherin/house_undressed.png</frame>
+		<folder>clothes</folder>
+	</style>
+</item>

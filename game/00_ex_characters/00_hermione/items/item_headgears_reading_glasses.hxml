@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>headgears_reading_glasses</key>
+
+	<style name="default">
+		<frame>headgears/reading_glasses.png</frame>
+		<folder>clothes</folder>
+		<zorder>headwear</zorder>
+	</style>
+</item>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>jacket_leather_short_sleeves</key>
+
+	<style name="default">
+		<frame>jackets/leather_jacket_short_sleeves.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress+1</zorder>
+		<parent></parent>
+		<shift></shift>
+		<transforms></transforms>
+		<hidelist></hidelist>
+		<actions></actions>
+	</style>
+	<style name="open">
+		<frame>jackets/leather_jacket_short_sleeves_open.png</frame>
+		<folder>clothes</folder>
+	</style>	
+</item>

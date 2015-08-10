@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>handwear_white_gloves</key>
+
+	<style name="default">
+		<frame>handwear/french_maid_gloves.png</frame>
+		<folder>clothes</folder>
+		<parent></parent>
+		<zorder>dress+1</zorder>
+		<hidelist></hidelist>
+	</style>
+</item>

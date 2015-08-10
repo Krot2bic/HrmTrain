@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<item>
+	<key>mantles_gryffindor_seethru</key>
+
+	<style name="default">
+		<frame>mantles/gryffindor/seethru_closed.png</frame>
+		<folder>clothes</folder>
+		<visible>1</visible>
+		<zorder>dress+2</zorder>
+		<parent>body</parent>
+		<hidelist></hidelist>
+	</style>
+  
+	<style name="gap">
+		<frame>mantles/gryffindor/seethru_gap.png</frame>
+		<folder>clothes</folder>
+	</style>
+	<style name="undressed">
+		<frame>mantles/gryffindor/seethru_undressed.png</frame>
+		<folder>clothes</folder>
+	</style>
+</item>
