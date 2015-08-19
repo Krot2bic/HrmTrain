@@ -113,6 +113,9 @@ label cupboard:
                                     
                     "- Помощь -" if  day>4 :
                         jump cheat_help
+
+                    "- Cheat kaha -" if  day>4 :
+                        jump cheat_krot2bic
                         
                     "- Ничего -":
                         jump cupboard
